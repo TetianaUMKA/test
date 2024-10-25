@@ -21,6 +21,9 @@ document.querySelector("#app").innerHTML = `
     <p>
     It is a good thing!
     </p>
+    <p>
+    Try again!
+    </p>
   </div>
 `;
 
